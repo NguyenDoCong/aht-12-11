@@ -7,7 +7,7 @@
 
     <form action="" method="post">
         <label for="number">Your number:</label><br>
-        <input type="text" id="number" name="number"><br>
+        <input type="number" id="number" name="number"><br>
     </form>
 
     <?php
